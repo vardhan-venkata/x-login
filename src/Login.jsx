@@ -76,12 +76,13 @@ const styles = {
   input: {
     marginTop: "5px",
     marginBottom: "15px",
+    borderRadius: "10px",
     padding: "8px",
     fontSize: "16px",
   },
   button: {
     padding: "10px",
-    backgroundColor: "#4CAF50",
+    backgroundColor: "blue",
     color: "white",
     border: "none",
     borderRadius: "4px",
@@ -89,7 +90,7 @@ const styles = {
     fontSize: "16px",
   },
   message: {
-    marginTop: "20px",
+    marginTop: "16px",
     fontWeight: "bold",
     textAlign: "center",
   },
